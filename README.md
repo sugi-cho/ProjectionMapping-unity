@@ -29,7 +29,7 @@ you can edit generated UV with mouse-drag in Game-View
 
 ![](img/projectedPhoto.jpg)
 
-- [VRだけじゃないVR ZONE 絶叫必至の『ナイアガラドロップ』と難攻不落の『トラップクライミング』](http://www.moguravr.com/vr-zone-activity/)
+- [VR ZONE SHINJUKU / VIRTUAL RESORT ACTIVITY “NIAGARA DROP & TRAP CLIMBING”](https://www.pics.tokyo/works/vr-zone-shinjuku/)
 
 ## Future
 
