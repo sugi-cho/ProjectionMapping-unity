@@ -29,7 +29,7 @@ you can edit generated UV with mouse-drag in Game-View
 
 ![](img/projectedPhoto.jpg)
 
-- [VR ZONE SHINJUKU / VIRTUAL RESORT ACTIVITY “NIAGARA DROP & TRAP CLIMBING”](https://www.pics.tokyo/works/vr-zone-shinjuku/)
+- [VR ZONE SHINJUKU / VIRTUAL RESORT ACTIVITY “NIAGARA DROP & TRAP CLIMBING”](https://www.pics.tokyo/works/ooh_vr-zone-shinjuku/)
 
 ## Future
 
